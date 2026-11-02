@@ -1,1 +1,2 @@
 Merge Conflict and its Resolution
+Added from feature branch
